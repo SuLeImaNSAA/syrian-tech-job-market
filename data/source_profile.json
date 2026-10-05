@@ -1,0 +1,63 @@
+{
+  "source_rows": 203,
+  "canonical_companies": 70,
+  "posting_date_min": "2024-09-02",
+  "posting_date_max": "2026-04-09",
+  "origin_type_counts": {
+    "Gulf_Remote": 5,
+    "Local_Syria": 127,
+    "Other": 71
+  },
+  "salary_disclosed_count": 10,
+  "salary_missing_count": 193,
+  "junior_postings": 46,
+  "junior_min_years": {
+    "0": 22,
+    "1": 24
+  },
+  "junior_missing_max_years": 17,
+  "possible_duplicate_groups": 7,
+  "possible_duplicate_extra_rows": 8,
+  "top_skills": [
+    {
+      "skill": "REST API",
+      "postings": 69
+    },
+    {
+      "skill": "Git",
+      "postings": 66
+    },
+    {
+      "skill": "CI/CD",
+      "postings": 52
+    },
+    {
+      "skill": "Python",
+      "postings": 49
+    },
+    {
+      "skill": "Docker",
+      "postings": 39
+    },
+    {
+      "skill": "JavaScript",
+      "postings": 39
+    },
+    {
+      "skill": "React",
+      "postings": 27
+    },
+    {
+      "skill": "Node.js",
+      "postings": 24
+    },
+    {
+      "skill": "TypeScript",
+      "postings": 22
+    },
+    {
+      "skill": "MySQL",
+      "postings": 20
+    }
+  ]
+}
